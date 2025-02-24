@@ -45,4 +45,4 @@ We welcome contributions! Feel free to open issues or submit pull requests.
 This project is licensed under the **MIT License**.
 
 ---
-Made with ❤️ by the **Somnium** team.
+Made with ❤️ by the **Underrated Teens** team.
